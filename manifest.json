@@ -1,0 +1,82 @@
+{
+    "_version": "1.1.0",
+    "sap.app": {
+        "_version": "1.1.0",
+        "id": "sap.ui.demo.toolpageapp",
+        "type": "application",
+        "title": "UI5 Prototype",
+        "description": "Prototype for design purposes.",
+        "applicationVersion": {
+            "version": "1.0.0"
+        }
+    },
+    "sap.ui": {
+        "_version": "1.1.0",
+        "technology": "UI5",
+        "deviceTypes": {
+            "desktop": true,
+            "tablet": true,
+            "phone": true
+        },
+        "supportedThemes": [
+            "sap_hcb",
+            "sap_bluecrystal",
+            "sap_belize"
+        ]
+    },
+    "sap.ui5": {
+        "_version": "1.1.0",
+        "rootView": {
+            "viewName": "DemoUXapp.view.init",
+            "type": "XML",
+            "id": "app"
+        },
+        "dependencies": {
+            "minUI5Version": "1.30",
+            "libs": {
+                "sap.ui.core": {},
+                "sap.m": {},
+                "sap.tnt": {},
+                "sap.ui.layout": {}
+            }
+        },
+        "routing": {
+            "config": {
+                "routerClass": "sap.m.routing.Router",
+                "controlId": "MainContainer",
+                "viewType": "XML",
+                "controlAggregation": "pages",
+                "viewPath": "DemoUXapp.view",
+                "async": true
+            },
+            "routes": [
+                {
+                    "pattern": "",
+                    "name": "MainPage",
+                    "target": "MainPage"
+                },
+                {
+                    "pattern": "FixedPage1",
+                    "name": "FixedPage1",
+                    "target": "FixedPage1"
+                },
+                {
+                    "pattern": "FixedPage2",
+                    "name": "FixedPage2",
+                    "target": "FixedPage2"
+                }
+            ],
+            "targets": {
+                "MainPage": {
+                    "viewName": "MainNavigation.MainPage"
+                },
+                "FixedPage1": {
+                    "viewName": "FixedNavigation.FixedPage1"
+                },
+                "FixedPage2": {
+                    "viewName": "FixedNavigation.FixedPage2"
+                }
+            }
+        }
+    }
+}

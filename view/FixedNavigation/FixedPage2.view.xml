@@ -1,0 +1,9 @@
+<mvc:View controllerName="DemoUXapp.controller.FixedNavigation.FixedPage2" 
+  height="100%" 
+  xmlns:mvc="sap.ui.core.mvc" 
+  xmlns="sap.m">
+  <Page class="sapUiContentPadding" 
+    title="Utility item">
+    <content></content>
+  </Page>
+</mvc:View>

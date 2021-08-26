@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <title>openUI5 - UX prototyping</title>
+    <link rel="shortcut icon" type="image/x-icon"
+        href="https://openui5.hana.ondemand.com/resources/sap/ui/core/mimes/logo/txtonly_16x16.ico">
+    <link rel="icon" type="image/x-icon"
+        href="https://openui5.hana.ondemand.com/resources/sap/ui/core/mimes/logo/txtonly_16x16.ico">
+    <script id="sap-ui-bootstrap" src="https://openui5.hana.ondemand.com/resources/sap-ui-core.js"
+        data-sap-ui-theme="sap_fiori_3"
+        data-sap-ui-libs="sap.tnt, sap.ui.commons, sap.m, sap.ui.layout, sap.ui.core, sap.ui.unified"
+        data-sap-ui-bindingSyntax="complex" data-sap-ui-xx-bindingSyntax="complex" data-sap-ui-compatVersion="edge"
+        data-sap-ui-resourceroots='{"DemoUXapp": "./"}' data-sap-ui-preload="async">
+        </script>
+
+    <script>
+        sap.ui.getCore().attachInit(function () {
+            sap.ui.require([
+                "sap/ui/core/ComponentContainer"
+            ], function () {
+                new sap.ui.core.ComponentContainer({
+                    name: "DemoUXapp"
+                }).placeAt("content");
+            });
+        });
+    </script>
+
+</head>
+
+<body class="sapUiBody" id="content">
+</body>
+
+</html>

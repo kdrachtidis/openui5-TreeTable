@@ -1,0 +1,12 @@
+<mvc:View controllerName="DemoUXapp.controller.MainNavigation.MainPage"
+  height="100%"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns:core="sap.ui.core"
+  xmlns="sap.m">
+  <Page class="sapUiContentPadding"
+    title="Home">
+    <content>
+      <!-- Place content here-->
+    </content>
+  </Page>
+</mvc:View>
