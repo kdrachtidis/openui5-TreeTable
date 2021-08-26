@@ -519,6 +519,37 @@
                                     "builder": "Where…..X=Y"
                                 }
                             ]
+                        },
+                        {
+                            "name": "1.11.5",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "49",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
                         }
                     ]
                 }
