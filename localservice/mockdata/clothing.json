@@ -1,0 +1,546 @@
+{
+    "catalog": {
+        "clothing": {
+            "categories": [
+                {
+                    "name": "Retail-Panel: Fridges 21.3.2020",
+                    "selected": "true",
+                    "categories": [
+                        {
+                            "name": "1.11.1",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "36",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1.11.2",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "36",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1.11.3",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "24",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1.11.4",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "12",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Retail-Panel: Washing Machines 27.4.2020",
+                    "selected": "true",
+                    "categories": [
+                        {
+                            "name": "1.11.1",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "45",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1.11.2",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "67",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1.11.3",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "78",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1.11.4",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "43",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Retail-Panel: Dishwasher 25.5.2020",
+                    "selected": "true",
+                    "categories": [
+                        {
+                            "name": "1.11.1",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "87",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1.11.2",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "23",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1.11.3",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "63",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1.11.4",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "55",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Retail-Panel: Microwave Oven 25.5.2020",
+                    "selected": "true",
+                    "categories": [
+                        {
+                            "name": "1.11.1",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "85",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1.11.2",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "25",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1.11.3",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "26",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1.11.4",
+                            "date": "19.11.2020",
+                            "period": "2020/03",
+                            "downloads": "49",
+                            "comment": "Regular release",
+                            "dataselection": "PRODUCT; SALES; CUST…; SALES_1_1;",
+                            "selected": "true",
+                            "categories": [
+                                {
+                                    "name": "PRODUCT",
+                                    "desc": "Product Data (Ver. 1.0; 1.1)",
+                                    "builder": "(Full)"
+                                },
+                                {
+                                    "name": "SALES",
+                                    "desc": "Sales Figures (Ver 1.0)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "CUSTOMER",
+                                    "desc": "Customer Data (Ver 1.0; 1.1)",
+                                    "builder": "Where…..X=Y"
+                                },
+                                {
+                                    "name": "SALES_1_1",
+                                    "desc": "Sales Figures (Ver 1.1)",
+                                    "builder": "Where…..X=Y"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "sizes": [
+        {
+            "key": "XS",
+            "value": "Extra Small"
+        },
+        {
+            "key": "S",
+            "value": "Small"
+        },
+        {
+            "key": "M",
+            "value": "Medium"
+        },
+        {
+            "key": "L",
+            "value": "Large"
+        }
+    ]
+}

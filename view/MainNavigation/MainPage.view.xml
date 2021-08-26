@@ -2,11 +2,79 @@
   height="100%"
   xmlns:mvc="sap.ui.core.mvc"
   xmlns:core="sap.ui.core"
-  xmlns="sap.m">
-  <Page class="sapUiContentPadding"
-    title="Home">
-    <content>
-      <!-- Place content here-->
-    </content>
-  </Page>
+  xmlns="sap.ui.table"
+  xmlns:m="sap.m"
+  xmlns:u="sap.ui.unified">
+  
+
+      <TreeTable id="TreeTableBasic"
+        rows="{path:'/catalog/clothing', parameters: {arrayNames:['categories']}}"
+        selectionMode="None"
+        ariaLabelledBy="title" visibleRowCount="30">
+        <extension>
+          <m:OverflowToolbar>
+            <m:Title id="title"
+              text="Products" />
+          </m:OverflowToolbar>
+        </extension>
+        <columns>
+          <Column>
+            <m:Label text="Description" />
+            <template>
+              <m:Text text="{name}"
+                wrapping="false" />
+            </template>
+          </Column>
+          <Column width="6rem">
+            <m:Label text="Date" />
+            <template>
+              <m:Text text="{date}" />
+            </template>
+          </Column>
+          <Column width="12rem">
+            <m:Label text="Data Selection"
+              wrapping="false" />
+            <template>
+              <m:Text text="{dataselection}" />
+            </template>
+          </Column>
+          <Column width="9rem">
+            <m:Label text="Period" />
+            <template>
+              <m:Text text="{period}"
+                wrapping="false" />
+            </template>
+          </Column>
+          <Column width="9rem">
+            <m:Label text="Comment" />
+            <template>
+              <m:Text text="{comment}"
+                wrapping="false" />
+            </template>
+          </Column>
+          <Column width="6rem">
+            <m:Label text="Downloads" />
+            <template>
+              <m:Link text="{downloads}" />
+            </template>
+          </Column>
+          <Column width="6rem">
+            <m:ObjectStatus icon="sap-icon://primary-key" />
+            <template>
+              <m:CheckBox />
+            </template>
+          </Column>
+          <Column width="6rem">
+            <m:Label text="Publishing" />
+            <template>
+              <m:Button icon="sap-icon://action"
+                type="Transparent"
+                press="onPress"
+                ariaLabelledBy="actionButtonLabel" />
+            </template>
+          </Column>
+        </columns>
+      </TreeTable>
+
+    
 </mvc:View>
